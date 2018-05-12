@@ -1,0 +1,49 @@
+_repo: The-Motley-Muse-Rhymes-for-the-Times-_36543
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Baumer, Lewis Christopher Edward
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '31813'
+    url: http://www.gutenberg.org/2009/agents/31813
+covers:
+- cover_type: archival
+  image_path: 36543-h/images/fcover.png
+creator:
+  author:
+    agent_name: Graham, Harry
+    aliases:
+    - Col. D. Streamer
+    - Streamer, Col. D.
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '37231'
+    url: http://www.gutenberg.org/2009/agents/37231
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry, English'
+- !lcc 'PR'
+tableOfContents: 'Foreword: the world we laugh in! -- Rhymes for the times: ''What''s
+  in a name?'' Nobody''s darling! Roses all the way. The triumph of jam. Egregious
+  Eastbourne. Sarah Owen. The last horsed ''bus. Stage support. Scribblers all! The
+  Lyons cubs. ''The cries of London.'' The model farm. The adventurer. A plea for
+  Ponto. The ''Waster.'' The choice. Ode on a distant prospect of Boston School. The
+  sporting spirit. Perspective. ''Rag-time.'' ''The pipes.'' Modern dancing. The public
+  interest. The militants. Plagues at the play. A suggestion. The model motorist.
+  The parish pump. Police Court sense -- Club cantos: The Athenæum. White''s. The
+  Bachelors''. The Garrick. The Automobile. Brooks''s. ''The Beefsteak.'' The Travellers''.
+  ''The Bath'' -- Songs in season: New Year''s Eve. February. Spring. Spring-cleaning.
+  ''Royal Ascot.'' ''Roses.'' The end of the Season. The Cockney of the North. ''The
+  twelfth.'' November. The cynic''s Christmas. Envoi.'
+title: The Motley Muse (Rhymes for the Times)
+url: http://www.gutenberg.org/ebooks/36543
