@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37231
     wikipedia: http://en.wikipedia.org/wiki/Harry_Graham_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36543#The-Motley-Muse-Rhymes-for-the-Times-
 gutenberg_issued: '2011-06-28'
 gutenberg_type: Text
 identifiers:
